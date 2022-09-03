@@ -1,0 +1,70 @@
+.container{
+    max-width: 1920px;
+    display: flex;
+    flex-direction: column;
+}
+.box{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+.box-1{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+}
+.box-2{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+}
+.p{
+    font-size: 50px;
+}
+.box3{
+    width: 33%;
+    height: 100%;
+}
+.box-5{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/014/419/451/large/emmanuel-julian-poseidon-8.jpg?1545604657);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.box-8{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://i.pinimg.com/originals/b9/db/da/b9dbda3c0db7819c8f98166026f98bed.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.box-11{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://i.pinimg.com/originals/f4/46/a5/f446a595ab6cd2fc6c690b10ceb38d15.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.box-20{
+    width: 33%;
+    height: 100%
+}
+.p20{
+    font-size: 20px;
+}
+.p21{
+    font-size: 20px;
+}
+.box50{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
